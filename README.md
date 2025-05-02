@@ -10,6 +10,7 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 - [Awesome AI for chemistry](#ai4chemistry-)
   - [Publication statistics](#publication-statistics)
   - [Review](#review)
+  - Materials(#materials)
 
 ## Review
 - [Generative Models as an Emerging Paradigm in the Chemical Sciences](https://pubs.acs.org/doi/10.1021/jacs.2c13467) [2023]
@@ -17,3 +18,8 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 - [Machine Learning for Molecular Simulation](https://www.annualreviews.org/content/journals/10.1146/annurev-physchem-042018-052331) [2020]
 - [Data Reduction Techniques for Simulation, Visualization and Data Analysis](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.13336) [2018]
 - [Materials discovery and design using machine learning](https://www.sciencedirect.com/science/article/pii/S2352847817300515) [2017]
+
+## Materials
+
+### Ionic Liquids
+- [Large-Scale Screening for High Conductivity Ionic Liquids via Machine Learning Algorithm Utilizing Graph Neural Network-Based Features](https://pubs.acs.org/doi/full/10.1021/acs.jced.3c00709) [2024] - 5700 data points, conductivity, GNN+XGBoost
