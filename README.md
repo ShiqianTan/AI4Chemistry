@@ -23,3 +23,4 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 
 ### Ionic Liquids
 - [Large-Scale Screening for High Conductivity Ionic Liquids via Machine Learning Algorithm Utilizing Graph Neural Network-Based Features](https://pubs.acs.org/doi/full/10.1021/acs.jced.3c00709) [2024] - 5700 data points, conductivity, GNN+XGBoost
+- [Rapid and Accurate Prediction of the Melting Point for Imidazolium-Based Ionic Liquids by Artificial Neural Network]([2024](https://www.mdpi.com/2624-8549/6/6/94)) [2024] - 280 data points, melting point
