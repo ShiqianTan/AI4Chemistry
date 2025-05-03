@@ -34,3 +34,4 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 - [Benchmarking machine learning methods for modeling physical properties of ionic liquids](https://www.sciencedirect.com/science/article/pii/S0167732222001532?via%3Dihub) [2022]
 - [A review on machine learning algorithms for the ionic liquid chemical space](https://pubs.rsc.org/en/content/articlelanding/2021/sc/d1sc01000j) [2021] - Review
 - [Application of Artificial Intelligence-based predictive methods in Ionic liquid studies: A review](https://www.sciencedirect.com/science/article/pii/S0378381220304477?via%3Dihub) [2021] - Review
+- [Beware of proper validation of models for ionic Liquids](https://www.sciencedirect.com/science/article/pii/S0167732221024478?via%3Dihub) [2021] - Melting point temperature, Transformer-CNN
