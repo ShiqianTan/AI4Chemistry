@@ -40,6 +40,7 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 - [A review on machine learning algorithms for the ionic liquid chemical space](https://pubs.rsc.org/en/content/articlelanding/2021/sc/d1sc01000j) [2021] - Review
 - [Application of Artificial Intelligence-based predictive methods in Ionic liquid studies: A review](https://www.sciencedirect.com/science/article/pii/S0378381220304477?via%3Dihub) [2021] - Review
 - [Beware of proper validation of models for ionic Liquids](https://www.sciencedirect.com/science/article/pii/S0167732221024478?via%3Dihub) [2021] - Melting point temperature, Transformer-CNN
+- [Viscosity of Ionic Liquids: An Extensive Database and a New Group Contribution Model Based on a Feed-Forward Artificial Neural Network](https://pubs.acs.org/doi/10.1021/ci500206u?ref=PDF) [2014] - Group contribution method
 
 ## Pretraining model
 - [Molecular contrastive learning of representations via graph neural networks](https://www.nature.com/articles/s42256-022-00447-x) [2022] - MolCLR (Molecular Contrastive Learning of Representations via Graph Neural Networks)
