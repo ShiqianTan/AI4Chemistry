@@ -35,3 +35,8 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 - [A review on machine learning algorithms for the ionic liquid chemical space](https://pubs.rsc.org/en/content/articlelanding/2021/sc/d1sc01000j) [2021] - Review
 - [Application of Artificial Intelligence-based predictive methods in Ionic liquid studies: A review](https://www.sciencedirect.com/science/article/pii/S0378381220304477?via%3Dihub) [2021] - Review
 - [Beware of proper validation of models for ionic Liquids](https://www.sciencedirect.com/science/article/pii/S0167732221024478?via%3Dihub) [2021] - Melting point temperature, Transformer-CNN
+
+## Pretraining model
+- [Molecular contrastive learning of representations via graph neural networks](https://www.nature.com/articles/s42256-022-00447-x) [2022] - MolCLR (Molecular Contrastive Learning of Representations via Graph Neural Networks)
+- [Mol-BERT: An Effective Molecular Representation with BERT for Molecular Property Prediction](https://onlinelibrary.wiley.com/doi/10.1155/2021/7181815) [2021] - BERT
+- [SMILES-BERT: Large Scale Unsupervised Pre-Training for Molecular Property Prediction](https://dl.acm.org/doi/10.1145/3307339.3342186) [2019] - BERT
