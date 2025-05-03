@@ -11,6 +11,10 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
   - [Publication statistics](#publication-statistics)
   - [Review](#review)
   - Materials(#materials)
+  - Machine learning Algorithm(#machine-learning-algorithm)
+
+## Machine learning algorithm
+- [Machine Learning: A Review of the Algorithms and Its Applications](https://link.springer.com/chapter/10.1007/978-3-030-29407-6_5) [2019]
 
 ## Review
 - [Generative Models as an Emerging Paradigm in the Chemical Sciences](https://pubs.acs.org/doi/10.1021/jacs.2c13467) [2023]
