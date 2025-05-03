@@ -10,8 +10,9 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 - [Awesome AI for chemistry](#ai4chemistry-)
   - [Publication statistics](#publication-statistics)
   - [Review](#review)
-  - Materials(#materials)
-  - Machine learning Algorithm(#machine-learning-algorithm)
+  - [Materials](#materials)
+  - [Machine learning Algorithm](#machine-learning-algorithm)
+  - [Cheminformatic software](#cheminformatic-software)
 
 ## Machine learning algorithm
 - [Machine Learning: A Review of the Algorithms and Its Applications](https://link.springer.com/chapter/10.1007/978-3-030-29407-6_5) [2019]
@@ -46,3 +47,9 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 - [Molecular contrastive learning of representations via graph neural networks](https://www.nature.com/articles/s42256-022-00447-x) [2022] - MolCLR (Molecular Contrastive Learning of Representations via Graph Neural Networks)
 - [Mol-BERT: An Effective Molecular Representation with BERT for Molecular Property Prediction](https://onlinelibrary.wiley.com/doi/10.1155/2021/7181815) [2021] - BERT
 - [SMILES-BERT: Large Scale Unsupervised Pre-Training for Molecular Property Prediction](https://dl.acm.org/doi/10.1145/3307339.3342186) [2019] - BERT
+
+## Cheminformatic software
+- RDKit - free
+- Open Babel - free
+- CODESSA - commercial
+- DRAGON - commercial
