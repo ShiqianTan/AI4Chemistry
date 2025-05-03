@@ -39,6 +39,7 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 - [A review of group contribution models to calculate thermodynamic properties of ionic liquids for process systems engineering](https://www.sciencedirect.com/science/article/pii/S0263876222003823?via%3Dihub) [2022] - Review
 - [Predictive molecular thermodynamic models for ionic liquids](https://aiche.onlinelibrary.wiley.com/doi/10.1002/aic.17575) [2022] - Review
 - [Comparison of molecular and structural features towards prediction of ionic liquid ionic conductivity for electrochemical applications](https://www.sciencedirect.com/science/article/pii/S0167732222021596?via%3Dihub#s0080) [2022] - Benchmark
+- [Predicting CO2 Absorption in Ionic Liquids with Molecular Descriptors and Explainable Graph Neural Networks](https://pubs.acs.org/doi/10.1021/acssuschemeng.2c05985?ref=PDF) [2022] - CO2 Absorption in Ionic Liquids, GNN 
 - [A review on machine learning algorithms for the ionic liquid chemical space](https://pubs.rsc.org/en/content/articlelanding/2021/sc/d1sc01000j) [2021] - Review
 - [Application of Artificial Intelligence-based predictive methods in Ionic liquid studies: A review](https://www.sciencedirect.com/science/article/pii/S0378381220304477?via%3Dihub) [2021] - Review
 - [Beware of proper validation of models for ionic Liquids](https://www.sciencedirect.com/science/article/pii/S0167732221024478?via%3Dihub) [2021] - Melting point temperature, Transformer-CNN
