@@ -28,3 +28,5 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 - [Machine learning coupled with group contribution for predicting the electrical conductivity of ionic liquids with experimental accuracy](https://www.sciencedirect.com/science/article/pii/S0378381224000013?via%3Dihub#sec0014) [2024] - 7598, electrical conductivity
 - [Generalizing property prediction of ionic liquids from limited labeled data: a one-stop framework empowered by transfer learning](https://pubs.rsc.org/en/content/articlelanding/2023/dd/d3dd00040k) [2023] - Transformer-CNN, diverse ILs properties
 - [Benchmarking machine learning methods for modeling physical properties of ionic liquids](https://www.sciencedirect.com/science/article/pii/S0167732222001532?via%3Dihub) [2022]
+- [A review on machine learning algorithms for the ionic liquid chemical space](https://pubs.rsc.org/en/content/articlelanding/2021/sc/d1sc01000j) [2021] - Review
+- [Application of Artificial Intelligence-based predictive methods in Ionic liquid studies: A review](https://www.sciencedirect.com/science/article/pii/S0378381220304477?via%3Dihub) [2021] - Review
