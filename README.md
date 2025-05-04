@@ -53,6 +53,8 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 - [SMILES-BERT: Large Scale Unsupervised Pre-Training for Molecular Property Prediction](https://dl.acm.org/doi/10.1145/3307339.3342186) [2019] - BERT
 
 ## Quantum Chemistry
+- [Ab-initio variational wave functions for the time-dependent many-electron Schrödinger equation](https://www.nature.com/articles/s41467-024-53672-w) [2024] - Nature Communication
+- [Ab initio quantum chemistry with neural-network wavefunctions](https://www.nature.com/articles/s41570-023-00516-8) [2023] - Nature Review Chemistry
 - [Deep-neural-network solution of the electronic Schrödinger equation](https://www.nature.com/articles/s41557-020-0544-y) [2020] - Nature Chemistry
 - [Solving the quantum many-body problem with artificial neural networks](https://www.science.org/doi/10.1126/science.aag2302) [2017] - The first application of NN to represent many-body wavefunctions
 - [Backflow Transformations via Neural Networks for Quantum Many-Body Wave Functions](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.226401) [2019] - PRL
