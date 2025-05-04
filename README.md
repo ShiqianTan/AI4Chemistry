@@ -52,6 +52,9 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 - [Mol-BERT: An Effective Molecular Representation with BERT for Molecular Property Prediction](https://onlinelibrary.wiley.com/doi/10.1155/2021/7181815) [2021] - BERT
 - [SMILES-BERT: Large Scale Unsupervised Pre-Training for Molecular Property Prediction](https://dl.acm.org/doi/10.1145/3307339.3342186) [2019] - BERT
 
+## Quantum Chemistry
+- [Solving the quantum many-body problem with artificial neural networks](https://www.science.org/doi/10.1126/science.aag2302) [2017] - The first application of NN to represent many-body wavefunctions
+
 ## Cheminformatic software
 - RDKit - free
 - Open Babel - free
