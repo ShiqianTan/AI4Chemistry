@@ -54,6 +54,7 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 
 ## Quantum Chemistry
 - [Solving the quantum many-body problem with artificial neural networks](https://www.science.org/doi/10.1126/science.aag2302) [2017] - The first application of NN to represent many-body wavefunctions
+- [Backflow Transformations via Neural Networks for Quantum Many-Body Wave Functions](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.226401) [2019] - PRL
 
 ## Cheminformatic software
 - RDKit - free
