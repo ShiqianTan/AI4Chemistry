@@ -62,6 +62,15 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 - [Solving the quantum many-body problem with artificial neural networks](https://www.science.org/doi/10.1126/science.aag2302) [2017] - Science, The first application of NN to represent many-body wavefunctions
 - [Backflow Transformations via Neural Networks for Quantum Many-Body Wave Functions](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.226401) [2019] - PRL
 
+## ML force fields
+- [Generalized Neural-Network Representation of High-Dimensional Potential-Energy Surfaces](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.98.146401) [2007] - Pioneering work
+- [Learning local equivariant representations for large-scale atomistic dynamics](https://www.nature.com/articles/s41467-023-36329-y) [2023] - Nature Communication
+- [E(3)-equivariant graph neural networks for data-efficient and accurate interatomic potentials](https://www.nature.com/articles/s41467-022-29939-5) [2022] - Nature Communication
+- [Physics-Inspired Structural Representations for Molecules and Materials](https://pubs.acs.org/doi/10.1021/acs.chemrev.1c00021) [2021] - Review
+- [Gaussian Process Regression for Materials and Molecules](https://pubs.acs.org/doi/10.1021/acs.chemrev.1c00022) [2021] - Review
+- [Machine Learning Force Fields](https://pubs.acs.org/doi/10.1021/acs.chemrev.0c01111) [2021] - Review
+- [Machine Learning Force Fields: Recent Advances and Remaining Challenges](https://pubs.acs.org/doi/10.1021/acs.jpclett.1c01204) [2021] - perspective
+
 ## Cheminformatic software
 - RDKit - free
 - Open Babel - free
