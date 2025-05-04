@@ -56,6 +56,7 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 - [Ab-initio variational wave functions for the time-dependent many-electron Schrödinger equation](https://www.nature.com/articles/s41467-024-53672-w) [2024] - Nature Communication
 - [Accurate computation of quantum excited states with neural networks](https://www.science.org/doi/10.1126/science.adn0137) [2024] - Science, Exicted State
 - [Ab initio quantum chemistry with neural-network wavefunctions](https://www.nature.com/articles/s41570-023-00516-8) [2023] - Nature Review Chemistry
+- [Toward Orbital-Free Density Functional Theory with Small Data Sets and Deep Learning](https://pubs.acs.org/doi/10.1021/acs.jctc.1c00812) [2022] - JCTC, orbitral-free DFT
 - [Pushing the frontiers of density functionals by solving the fractional electron problem](https://www.science.org/doi/10.1126/science.abj6511) [2021] - Science, DFT, DM21
 - [Deep-neural-network solution of the electronic Schrödinger equation](https://www.nature.com/articles/s41557-020-0544-y) [2020] - Nature Chemistry
 - [Solving the quantum many-body problem with artificial neural networks](https://www.science.org/doi/10.1126/science.aag2302) [2017] - Science, The first application of NN to represent many-body wavefunctions
