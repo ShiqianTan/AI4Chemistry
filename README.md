@@ -97,16 +97,40 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 - [Constrained Graph Variational Autoencoders for Molecule Design](https://arxiv.org/abs/1805.09076) [2018]
 - [Automatic Chemical Design Using a Data-Driven Continuous Representation of Molecules](https://pubs.acs.org/doi/10.1021/acscentsci.7b00572) [2018] - Pioneering work in molecule generation
 
-### Normalizing flow
+### Flow model
 - [Unified Generative Modeling of 3D Molecules via Bayesian Flow Networks](https://arxiv.org/abs/2403.15441) [2024]
 - [Normalizing Flows for Probabilistic Modeling and Inference](https://arxiv.org/abs/1912.02762) [2019] - Pioneering work
 
 ### Diffusion model
+- [A generative model for inorganic materials design](https://www.nature.com/articles/s41586-025-08628-5) [2025] - Nature
+- [Con-CDVAE: A method for the conditional generation of crystal structures](https://www.sciencedirect.com/science/article/pii/S2950463524000036?via%3Dihub) [2024]
+- [Deep learning generative model for crystal structure prediction](https://www.nature.com/articles/s41524-024-01443-y) [2024]
+- [Space Group Constrained Crystal Generation](https://arxiv.org/abs/2402.03992) [2024]
+- [Equivariant 3D-conditional diffusion model for molecular linker design](https://www.nature.com/articles/s42256-024-00815-9) [2024]
+- [Guided diffusion for inverse molecular design](https://www.nature.com/articles/s43588-023-00532-0) [2023]
 - [Crystal Diffusion Variational Autoencoder for Periodic Material Generation](https://arxiv.org/abs/2110.06197) [2021] - Pioneering work in crystal materials generation
 - [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239) [2020] - Pioneering work
 
 ### Autogressive model
 - [GraphAF: a Flow-based Autoregressive Model for Molecular Graph Generation](https://arxiv.org/abs/2001.09382) [2020]
+
+### Reality consideration
+- [It Takes Two to Tango: Directly Optimizing for Constrained Synthesizability in Generative Molecular Design](https://arxiv.org/abs/2410.11527) [2024]
+- [Molecular Generative Model via Retrosynthetically Prepared Chemical Building Block Assembly](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202206674) [2023]
+- [Chemistry-intuitive explanation of graph neural networks for molecular property prediction with substructure masking](https://www.nature.com/articles/s41467-023-38192-3) [2023]
+- [From Black Boxes to Actionable Insights: A Perspective on Explainable Artificial Intelligence for Scientific Discovery](https://pubs.acs.org/doi/10.1021/acs.jcim.3c01642) [2023]
+- [Computer-aided multi-objective optimization in small molecule discovery](https://www.cell.com/patterns/fulltext/S2666-3899(23)00001-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666389923000016%3Fshowall%3Dtrue) [2023]
+- [Interpretable machine learning for knowledge generation in heterogeneous catalysis](https://www.nature.com/articles/s41929-022-00744-z) [2022]
+- [Explainable graph neural networks for organic cages](https://pubs.rsc.org/en/content/articlelanding/2022/dd/d1dd00039j) [2022]
+- [Drug discovery with explainable artificial intelligence](https://www.nature.com/articles/s42256-020-00236-4) [2020]
+
+### Others
+- [Exploration of crystal chemical space using text-guided generative artificial intelligence](https://chemrxiv.org/engage/chemrxiv/article-details/6728e27cf9980725cf118177) [2024]
+- [Generative Models as an Emerging Paradigm in the Chemical Sciences](https://pubs.acs.org/doi/10.1021/jacs.2c13467) [2023] - Review
+- [Dismai-Bench: benchmarking and designing generative models using disordered materials and interfaces](https://pubs.rsc.org/en/content/articlelanding/2024/dd/d4dd00100a) [2024] - Benchmarking
+- [matbench-genmetrics: A Python library for benchmarking crystal structure generative models using time-based splits of Materials Project structures](https://joss.theoj.org/papers/10.21105/joss.05618) [2024] - Benchmarking
+- [Molecular Sets (MOSES): A Benchmarking Platform for Molecular Generation Models](https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2020.565644/full) [2020] - Benchmarking
+
 
 ## Cheminformatic software
 - RDKit - free
