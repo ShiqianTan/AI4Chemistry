@@ -25,6 +25,10 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 - [Data Reduction Techniques for Simulation, Visualization and Data Analysis](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.13336) [2018]
 - [Materials discovery and design using machine learning](https://www.sciencedirect.com/science/article/pii/S2352847817300515) [2017]
 
+## Representation learning
+- [Element similarity in high-dimensional materials representations](https://pubs.rsc.org/en/content/articlelanding/2023/dd/d3dd00121k)[2023]
+
+
 ## Materials
 
 ### Ionic Liquids
@@ -99,6 +103,7 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 
 ### Flow model
 - [Unified Generative Modeling of 3D Molecules via Bayesian Flow Networks](https://arxiv.org/abs/2403.15441) [2024]
+- [FlowLLM: Flow Matching for Material Generation with Large Language Models as Base Distributions](https://arxiv.org/abs/2410.23405) [2024]
 - [Normalizing Flows for Probabilistic Modeling and Inference](https://arxiv.org/abs/1912.02762) [2019] - Pioneering work
 
 ### Diffusion model
@@ -108,10 +113,15 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 - [Space Group Constrained Crystal Generation](https://arxiv.org/abs/2402.03992) [2024]
 - [Equivariant 3D-conditional diffusion model for molecular linker design](https://www.nature.com/articles/s42256-024-00815-9) [2024]
 - [Guided diffusion for inverse molecular design](https://www.nature.com/articles/s43588-023-00532-0) [2023]
+- [Scalable Diffusion for Materials Generation](https://arxiv.org/abs/2311.09235) [2023]
 - [Crystal Diffusion Variational Autoencoder for Periodic Material Generation](https://arxiv.org/abs/2110.06197) [2021] - Pioneering work in crystal materials generation
 - [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239) [2020] - Pioneering work
 
 ### Autogressive model
+- [MatterGPT: A Generative Transformer for Multi-Property Inverse Design of Solid-State Materials](https://arxiv.org/abs/2408.07608) [2024]
+- [AtomGPT: Atomistic Generative Pretrained Transformer for Forward and Inverse Materials Design](https://pubs.acs.org/doi/10.1021/acs.jpclett.4c01126) [2024]
+- [Language models can generate molecules, materials, and protein binding sites directly in three dimensions as XYZ, CIF, and PDB files](https://arxiv.org/abs/2305.05708) [2024]
+- [Crystal structure generation with autoregressive large language modeling](https://www.nature.com/articles/s41467-024-54639-7) [2024]
 - [GraphAF: a Flow-based Autoregressive Model for Molecular Graph Generation](https://arxiv.org/abs/2001.09382) [2020]
 
 ### Reality consideration
@@ -122,15 +132,37 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 - [Computer-aided multi-objective optimization in small molecule discovery](https://www.cell.com/patterns/fulltext/S2666-3899(23)00001-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666389923000016%3Fshowall%3Dtrue) [2023]
 - [Interpretable machine learning for knowledge generation in heterogeneous catalysis](https://www.nature.com/articles/s41929-022-00744-z) [2022]
 - [Explainable graph neural networks for organic cages](https://pubs.rsc.org/en/content/articlelanding/2022/dd/d1dd00039j) [2022]
+- [Materials Precursor Score: Modeling Chemists’ Intuition for the Synthetic Accessibility of Porous Organic Cage Precursors](https://pubs.acs.org/doi/10.1021/acs.jcim.1c00375) [2021]
 - [Drug discovery with explainable artificial intelligence](https://www.nature.com/articles/s42256-020-00236-4) [2020]
 
 ### Others
 - [Exploration of crystal chemical space using text-guided generative artificial intelligence](https://chemrxiv.org/engage/chemrxiv/article-details/6728e27cf9980725cf118177) [2024]
+- [Closing the Execution Gap in Generative AI for Chemicals and Materials: Freeways or Safeguards](https://mit-genai.pubpub.org/pub/681kpeoa/release/1) [2024] - Blog
+- [Generative Hierarchical Materials Search](https://arxiv.org/abs/2409.06762) [2024]
 - [Generative Models as an Emerging Paradigm in the Chemical Sciences](https://pubs.acs.org/doi/10.1021/jacs.2c13467) [2023] - Review
 - [Dismai-Bench: benchmarking and designing generative models using disordered materials and interfaces](https://pubs.rsc.org/en/content/articlelanding/2024/dd/d4dd00100a) [2024] - Benchmarking
 - [matbench-genmetrics: A Python library for benchmarking crystal structure generative models using time-based splits of Materials Project structures](https://joss.theoj.org/papers/10.21105/joss.05618) [2024] - Benchmarking
+- [Fine-Tuned Language Models Generate Stable Inorganic Materials as Text](https://arxiv.org/abs/2402.04379) [2024]
 - [Molecular Sets (MOSES): A Benchmarking Platform for Molecular Generation Models](https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2020.565644/full) [2020] - Benchmarking
 
+## Bayeysian optimization
+- [System-Aware Neural ODE Processes for Few-Shot Bayesian Optimization](https://arxiv.org/abs/2406.02352) [2024]
+- [A survey and benchmark of high-dimensional Bayesian optimization of discrete sequences](https://arxiv.org/abs/2406.04739) [2024]
+- [Race to the bottom: Bayesian optimisation for chemical problems](https://pubs.rsc.org/en/content/articlelanding/2024/dd/d3dd00234a) [2024]
+- [Bayesian reaction optimization as a tool for chemical synthesis](https://www.nature.com/articles/s41586-021-03213-y) [2021] - Nature
+- [Practical Bayesian Optimization of Machine Learning Algorithms](https://arxiv.org/abs/1206.2944) [2012]
+
+## LLM for chemistry or materials
+- [Scientific Large Language Models: A Survey on Biological & Chemical Domains](https://arxiv.org/abs/2401.14656) [2024]
+- [A survey on multimodal large language models](https://academic.oup.com/nsr/article/11/12/nwae403/7896414?login=false) [2024]
+- [Chemical language modeling with structured state space sequence models](https://www.nature.com/articles/s41467-024-50469-9) [2024]
+
+## Multi-task learning
+- [Boosting Tree-Assisted Multitask Deep Learning for Small Scientific Datasets](https://pubs.acs.org/doi/10.1021/acs.jcim.9b01184) [2020]
+
+## AI for Materials symposium or conference
+- [AI4Mat-ICLR 2025](https://sites.google.com/view/ai4mat/home) [2025]
+- [AI4Mat-2023 workshop at NeurIPS 2023](https://pubs.rsc.org/en/content/articlelanding/2024/dd/d4dd90010c) [2023]
 
 ## Cheminformatic software
 - RDKit - free
