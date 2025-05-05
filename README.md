@@ -71,6 +71,17 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 - [Machine Learning Force Fields](https://pubs.acs.org/doi/10.1021/acs.chemrev.0c01111) [2021] - Review
 - [Machine Learning Force Fields: Recent Advances and Remaining Challenges](https://pubs.acs.org/doi/10.1021/acs.jpclett.1c01204) [2021] - perspective
 
+## Inverse design
+- [Has generative artificial intelligence solved inverse materials design?](https://www.cell.com/matter/fulltext/S2590-2385(24)00242-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS259023852400242X%3Fshowall%3Dtrue) [2024]
+- [Machine learning-aided generative molecular design](https://www.nature.com/articles/s42256-024-00843-5) [2024]
+- [Scientific discovery in the age of artificial intelligence](https://www.nature.com/articles/s41586-023-06221-2) [2023] - Nature
+- [Art and the science of generative AI](https://www.science.org/doi/10.1126/science.adh4451) [2023] - Science
+- [Discovering and understanding materials through computation](https://www.nature.com/articles/s41563-021-01015-1) [2021]
+- [Structure prediction drives materials discovery](https://www.nature.com/articles/s41578-019-0101-8) [2019]
+- [Inverse design in search of materials with target functionalities](https://www.nature.com/articles/s41570-018-0121) [2018]
+- 
+- 
+
 ## Cheminformatic software
 - RDKit - free
 - Open Babel - free
