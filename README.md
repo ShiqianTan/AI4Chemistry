@@ -79,8 +79,22 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 - [Discovering and understanding materials through computation](https://www.nature.com/articles/s41563-021-01015-1) [2021]
 - [Structure prediction drives materials discovery](https://www.nature.com/articles/s41578-019-0101-8) [2019]
 - [Inverse design in search of materials with target functionalities](https://www.nature.com/articles/s41570-018-0121) [2018]
-- 
-- 
+
+## Generative model
+### GAN
+- [Generative Adversarial Networks for Crystal Structure Prediction](https://pubs.acs.org/doi/10.1021/acscentsci.0c00426) [2020]
+- [MolGAN: An implicit generative model for small molecular graphs](https://arxiv.org/abs/1805.11973) [2018]
+- [Objective-Reinforced Generative Adversarial Networks (ORGAN) for Sequence Generation Models](https://arxiv.org/abs/1705.10843) [2017] - Pioneering work of using generative work in chemistry
+
+### VAE
+- [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114) [2013] - Pioneering work
+- [WyCryst: Wyckoff inorganic crystal generator framework](https://www.cell.com/matter/abstract/S2590-2385(24)00305-9?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2590238524003059%3Fshowall%3Dtrue) [2024]
+- [Deep generative design of porous organic cages via a variational autoencoder](https://pubs.rsc.org/en/content/articlelanding/2023/dd/d3dd00154g) [2023]
+- [An invertible crystallographic representation for general inverse design of inorganic crystals with targeted properties](https://www.cell.com/matter/fulltext/S2590-2385(21)00625-1?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2590238521006251%3Fshowall%3Dtrue) [2022]
+- [The Usual Suspects? Reassessing Blame for VAE Posterior Collapse](https://arxiv.org/abs/1912.10702) [2019]
+- [Inverse Design of Solid-State Materials via a Continuous Representation](https://www.cell.com/matter/fulltext/S2590-2385(19)30175-4?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2590238519301754%3Fshowall%3Dtrue) [2019]
+- [Constrained Graph Variational Autoencoders for Molecule Design](https://arxiv.org/abs/1805.09076) [2018]
+- [Automatic Chemical Design Using a Data-Driven Continuous Representation of Molecules](https://pubs.acs.org/doi/10.1021/acscentsci.7b00572) [2018] - Pioneering work in molecule generation
 
 ## Cheminformatic software
 - RDKit - free
