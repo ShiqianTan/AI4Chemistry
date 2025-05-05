@@ -59,6 +59,7 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 ## Quantum Chemistry
 - [Ab-initio variational wave functions for the time-dependent many-electron Schrödinger equation](https://www.nature.com/articles/s41467-024-53672-w) [2024] - Nature Communication
 - [Accurate computation of quantum excited states with neural networks](https://www.science.org/doi/10.1126/science.adn0137) [2024] - Science, Exicted State
+- [A deep equivariant neural network approach for efficient hybrid density functional calculations](https://www.nature.com/articles/s41467-024-53028-4) [2024]
 - [Ab initio quantum chemistry with neural-network wavefunctions](https://www.nature.com/articles/s41570-023-00516-8) [2023] - Nature Review Chemistry
 - [Toward Orbital-Free Density Functional Theory with Small Data Sets and Deep Learning](https://pubs.acs.org/doi/10.1021/acs.jctc.1c00812) [2022] - JCTC, orbitral-free DFT
 - [Pushing the frontiers of density functionals by solving the fractional electron problem](https://www.science.org/doi/10.1126/science.abj6511) [2021] - Science, DFT, DM21
@@ -68,8 +69,10 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 
 ## ML force fields
 - [Generalized Neural-Network Representation of High-Dimensional Potential-Energy Surfaces](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.98.146401) [2007] - Pioneering work
+- [Fast and flexible long-range models for atomistic machine learning](https://pubs.aip.org/aip/jcp/article/162/14/142501/3342834/Fast-and-flexible-long-range-models-for-atomistic) [2025]
 - [Learning local equivariant representations for large-scale atomistic dynamics](https://www.nature.com/articles/s41467-023-36329-y) [2023] - Nature Communication
 - [E(3)-equivariant graph neural networks for data-efficient and accurate interatomic potentials](https://www.nature.com/articles/s41467-022-29939-5) [2022] - Nature Communication
+- [A universal graph deep learning interatomic potential for the periodic table](https://www.nature.com/articles/s43588-022-00349-3) [2022]
 - [Physics-Inspired Structural Representations for Molecules and Materials](https://pubs.acs.org/doi/10.1021/acs.chemrev.1c00021) [2021] - Review
 - [Gaussian Process Regression for Materials and Molecules](https://pubs.acs.org/doi/10.1021/acs.chemrev.1c00022) [2021] - Review
 - [Machine Learning Force Fields](https://pubs.acs.org/doi/10.1021/acs.chemrev.0c01111) [2021] - Review
