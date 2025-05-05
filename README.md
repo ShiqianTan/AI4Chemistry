@@ -97,6 +97,17 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 - [Constrained Graph Variational Autoencoders for Molecule Design](https://arxiv.org/abs/1805.09076) [2018]
 - [Automatic Chemical Design Using a Data-Driven Continuous Representation of Molecules](https://pubs.acs.org/doi/10.1021/acscentsci.7b00572) [2018] - Pioneering work in molecule generation
 
+### Normalizing flow
+- [Unified Generative Modeling of 3D Molecules via Bayesian Flow Networks](https://arxiv.org/abs/2403.15441) [2024]
+- [Normalizing Flows for Probabilistic Modeling and Inference](https://arxiv.org/abs/1912.02762) [2019] - Pioneering work
+
+### Diffusion model
+- [Crystal Diffusion Variational Autoencoder for Periodic Material Generation](https://arxiv.org/abs/2110.06197) [2021] - Pioneering work in crystal materials generation
+- [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239) [2020] - Pioneering work
+
+### Autogressive model
+- [GraphAF: a Flow-based Autoregressive Model for Molecular Graph Generation](https://arxiv.org/abs/2001.09382) [2020]
+
 ## Cheminformatic software
 - RDKit - free
 - Open Babel - free
