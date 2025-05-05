@@ -84,6 +84,7 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 ### GAN
 - [Generative Adversarial Networks for Crystal Structure Prediction](https://pubs.acs.org/doi/10.1021/acscentsci.0c00426) [2020]
 - [MolGAN: An implicit generative model for small molecular graphs](https://arxiv.org/abs/1805.11973) [2018]
+- [Reinforced Adversarial Neural Computer for de Novo Molecular Design](https://pubs.acs.org/doi/10.1021/acs.jcim.7b00690) [2018]
 - [Objective-Reinforced Generative Adversarial Networks (ORGAN) for Sequence Generation Models](https://arxiv.org/abs/1705.10843) [2017] - Pioneering work of using generative work in chemistry
 
 ### VAE
