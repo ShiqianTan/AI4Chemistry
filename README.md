@@ -159,6 +159,9 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 - [Scientific Large Language Models: A Survey on Biological & Chemical Domains](https://arxiv.org/abs/2401.14656) [2024]
 - [A survey on multimodal large language models](https://academic.oup.com/nsr/article/11/12/nwae403/7896414?login=false) [2024]
 - [Chemical language modeling with structured state space sequence models](https://www.nature.com/articles/s41467-024-50469-9) [2024]
+- [Fine-tuning GPT-3 for machine learning electronic and functional properties of organic molecules](https://pubs.rsc.org/en/content/articlelanding/2024/sc/d3sc04610a) [2024] - GPT3
+- [Leveraging Large Language Models for Predictive Chemistry](https://chemrxiv.org/engage/chemrxiv/article-details/652e50b98bab5d2055852dde) [2023]
+- [Large Language Models as Master Key: Unlocking the Secrets of Materials Science with GPT](https://arxiv.org/abs/2304.02213) [2023]
 
 ## Multi-task learning
 - [Boosting Tree-Assisted Multitask Deep Learning for Small Scientific Datasets](https://pubs.acs.org/doi/10.1021/acs.jcim.9b01184) [2020]
