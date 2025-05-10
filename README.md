@@ -158,6 +158,7 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 ## LLM for chemistry or materials
 - [A review of large language models and autonomous agents in chemistry](https://pubs.rsc.org/en/content/articlelanding/2025/sc/d4sc03921a) [2025] - Review
 - [34 Examples of LLM Applications in Materials Science and Chemistry: Towards Automation, Assistants, Agents, and Accelerated Scientific Discovery](https://arxiv.org/pdf/2505.03049) [2025]
+- [AlchemBERT: Exploring Lightweight Language Models for Materials Informatics](https://chemrxiv.org/engage/chemrxiv/article-details/6781a6b481d2151a02a3212e) [2025]
 - [Large Language Models as Molecular Design Engines](https://pubs.acs.org/doi/10.1021/acs.jcim.4c01396) [2024]
 - [Leveraging large language models for predictive chemistry](https://www.nature.com/articles/s42256-023-00788-1) [2024]
 - [Augmenting large language models with chemistry tools](https://www.nature.com/articles/s42256-024-00832-8) [2024]
