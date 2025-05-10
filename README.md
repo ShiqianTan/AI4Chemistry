@@ -159,6 +159,7 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 - [A review of large language models and autonomous agents in chemistry](https://pubs.rsc.org/en/content/articlelanding/2025/sc/d4sc03921a) [2025] - Review
 - [34 Examples of LLM Applications in Materials Science and Chemistry: Towards Automation, Assistants, Agents, and Accelerated Scientific Discovery](https://arxiv.org/pdf/2505.03049) [2025]
 - [AlchemBERT: Exploring Lightweight Language Models for Materials Informatics](https://chemrxiv.org/engage/chemrxiv/article-details/6781a6b481d2151a02a3212e) [2025]
+- [Foundation models for materials discovery – current state and future directions](https://www.nature.com/articles/s41524-025-01538-0) [2025]
 - [LLM4Mat-Bench: Benchmarking Large Language Models for Materials Property Prediction](https://arxiv.org/abs/2411.00177) [2024] - Benchmark
 - [MaScQA: investigating materials science knowledge of large language models](https://pubs.rsc.org/en/content/articlelanding/2024/dd/d3dd00188a) [2024] - Question Answering
 - [Large Language Models as Molecular Design Engines](https://pubs.acs.org/doi/10.1021/acs.jcim.4c01396) [2024]
@@ -169,6 +170,7 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 - [A survey on multimodal large language models](https://academic.oup.com/nsr/article/11/12/nwae403/7896414?login=false) [2024]
 - [Chemical language modeling with structured state space sequence models](https://www.nature.com/articles/s41467-024-50469-9) [2024]
 - [Fine-tuning GPT-3 for machine learning electronic and functional properties of organic molecules](https://pubs.rsc.org/en/content/articlelanding/2024/sc/d3sc04610a) [2024] - GPT3
+- [Foundational Large Language Models for Materials Research](https://arxiv.org/abs/2412.09560) [2024]
 - [LLM-Prop: Predicting Physical And Electronic Properties Of Crystalline Solids From Their Text Descriptions](https://arxiv.org/abs/2310.14029) [2023]
 - [Large Language Models as Master Key: Unlocking the Secrets of Materials Science with GPT](https://arxiv.org/abs/2304.02213) [2023]
 - [Catalyst Energy Prediction with CatBERTa: Unveiling Feature Exploration Strategies through Large Language Models](https://pubs.acs.org/doi/10.1021/acscatal.3c04956?ref=PDF) [2023] - CatBERTa
