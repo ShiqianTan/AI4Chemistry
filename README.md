@@ -173,6 +173,7 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 - [Fine-tuning GPT-3 for machine learning electronic and functional properties of organic molecules](https://pubs.rsc.org/en/content/articlelanding/2024/sc/d3sc04610a) [2024] - GPT3
 - [Foundational Large Language Models for Materials Research](https://arxiv.org/abs/2412.09560) [2024]
 - [Beyond designer's knowledge: Generating materials design hypotheses via large language models](https://arxiv.org/abs/2409.06756) [2024]
+- [Structured information extraction from scientific text with large language models](https://www.nature.com/articles/s41467-024-45563-x) [2024]
 - [LLM-Prop: Predicting Physical And Electronic Properties Of Crystalline Solids From Their Text Descriptions](https://arxiv.org/abs/2310.14029) [2023]
 - [Large Language Models as Master Key: Unlocking the Secrets of Materials Science with GPT](https://arxiv.org/abs/2304.02213) [2023]
 - [Catalyst Energy Prediction with CatBERTa: Unveiling Feature Exploration Strategies through Large Language Models](https://pubs.acs.org/doi/10.1021/acscatal.3c04956?ref=PDF) [2023] - CatBERTa
