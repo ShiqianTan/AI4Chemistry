@@ -158,15 +158,19 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 ## LLM for chemistry or materials
 - [A review of large language models and autonomous agents in chemistry](https://pubs.rsc.org/en/content/articlelanding/2025/sc/d4sc03921a) [2025] - Review
 - [34 Examples of LLM Applications in Materials Science and Chemistry: Towards Automation, Assistants, Agents, and Accelerated Scientific Discovery](https://arxiv.org/pdf/2505.03049) [2025]
+- [Large Language Models as Molecular Design Engines](https://pubs.acs.org/doi/10.1021/acs.jcim.4c01396) [2024]
 - [Leveraging large language models for predictive chemistry](https://www.nature.com/articles/s42256-023-00788-1) [2024]
+- [Augmenting large language models with chemistry tools](https://www.nature.com/articles/s42256-024-00832-8) [2024]
 - [Foundational Large Language Models for Materials Research](https://arxiv.org/abs/2412.09560) [2024]
 - [Scientific Large Language Models: A Survey on Biological & Chemical Domains](https://arxiv.org/abs/2401.14656) [2024]
 - [A survey on multimodal large language models](https://academic.oup.com/nsr/article/11/12/nwae403/7896414?login=false) [2024]
 - [Chemical language modeling with structured state space sequence models](https://www.nature.com/articles/s41467-024-50469-9) [2024]
 - [Fine-tuning GPT-3 for machine learning electronic and functional properties of organic molecules](https://pubs.rsc.org/en/content/articlelanding/2024/sc/d3sc04610a) [2024] - GPT3
-- [Leveraging Large Language Models for Predictive Chemistry](https://chemrxiv.org/engage/chemrxiv/article-details/652e50b98bab5d2055852dde) [2023]
 - [Large Language Models as Master Key: Unlocking the Secrets of Materials Science with GPT](https://arxiv.org/abs/2304.02213) [2023]
 - [Catalyst Energy Prediction with CatBERTa: Unveiling Feature Exploration Strategies through Large Language Models](https://pubs.acs.org/doi/10.1021/acscatal.3c04956?ref=PDF) [2023] - CatBERTa
+
+## Self-Driving Laboratory
+- [Self-Driving Laboratories for Chemistry and Materials Science](https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00055) [2024] - Review
 
 ## Multi-task learning
 - [Boosting Tree-Assisted Multitask Deep Learning for Small Scientific Datasets](https://pubs.acs.org/doi/10.1021/acs.jcim.9b01184) [2020]
