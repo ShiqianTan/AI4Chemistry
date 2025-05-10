@@ -179,6 +179,9 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 ## Multi-task learning
 - [Boosting Tree-Assisted Multitask Deep Learning for Small Scientific Datasets](https://pubs.acs.org/doi/10.1021/acs.jcim.9b01184) [2020]
 
+## Math reasoning
+- [Benchmarking Large Language Models for Math Reasoning Tasks](https://arxiv.org/abs/2408.10839) [2024] - Benchmark
+
 ## AI for Materials symposium or conference
 - [AI4Mat-ICLR 2025](https://sites.google.com/view/ai4mat/home) [2025]
 - [AI4Mat-2023 workshop at NeurIPS 2023](https://pubs.rsc.org/en/content/articlelanding/2024/dd/d4dd90010c) [2023]
