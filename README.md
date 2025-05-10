@@ -26,6 +26,9 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 - [Data Reduction Techniques for Simulation, Visualization and Data Analysis](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.13336) [2018]
 - [Materials discovery and design using machine learning](https://www.sciencedirect.com/science/article/pii/S2352847817300515) [2017]
 
+## Dataset
+- [ChemistryQA: A Complex Question Answering Dataset from Chemistry](https://openreview.net/forum?id=oeHTRAehiFF) [2024]
+
 ## Representation learning
 - [Element similarity in high-dimensional materials representations](https://pubs.rsc.org/en/content/articlelanding/2023/dd/d3dd00121k)[2023]
 
@@ -177,6 +180,7 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 - [LLM-Prop: Predicting Physical And Electronic Properties Of Crystalline Solids From Their Text Descriptions](https://arxiv.org/abs/2310.14029) [2023]
 - [Large Language Models as Master Key: Unlocking the Secrets of Materials Science with GPT](https://arxiv.org/abs/2304.02213) [2023]
 - [Catalyst Energy Prediction with CatBERTa: Unveiling Feature Exploration Strategies through Large Language Models](https://pubs.acs.org/doi/10.1021/acscatal.3c04956?ref=PDF) [2023] - CatBERTa
+- [What can Large Language Models do in chemistry? A comprehensive benchmark on eight tasks](https://arxiv.org/abs/2305.18365) [2023] - Benchmark
 
 ## Self-Driving Laboratory
 - [Self-Driving Laboratories for Chemistry and Materials Science](https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00055) [2024] - Review
