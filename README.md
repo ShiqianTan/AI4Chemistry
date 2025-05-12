@@ -180,10 +180,16 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 - [Structured information extraction from scientific text with large language models](https://www.nature.com/articles/s41467-024-45563-x) [2024]
 - [Regression with Large Language Models for Materials and Molecular Property Prediction](https://arxiv.org/abs/2409.06080) [2024]
 - [Large Language Models for Material Property Predictions: elastic constant tensor prediction and materials design](https://arxiv.org/abs/2411.12280) [2024]
+- [BartSmiles: Generative Masked Language Models for Molecular Representations](https://pubs.acs.org/doi/full/10.1021/acs.jcim.4c00512) [2024]
 - [LLM-Prop: Predicting Physical And Electronic Properties Of Crystalline Solids From Their Text Descriptions](https://arxiv.org/abs/2310.14029) [2023]
 - [Large Language Models as Master Key: Unlocking the Secrets of Materials Science with GPT](https://arxiv.org/abs/2304.02213) [2023]
 - [Catalyst Energy Prediction with CatBERTa: Unveiling Feature Exploration Strategies through Large Language Models](https://pubs.acs.org/doi/10.1021/acscatal.3c04956?ref=PDF) [2023] - CatBERTa
 - [What can Large Language Models do in chemistry? A comprehensive benchmark on eight tasks](https://arxiv.org/abs/2305.18365) [2023] - Benchmark
+- [ChemBERTa-2: Towards Chemical Foundation Models](https://arxiv.org/abs/2209.01712) [2022]
+- [Chemformer: a pre-trained transformer for computational chemistry](https://iopscience.iop.org/article/10.1088/2632-2153/ac3ffb) [2022]
+- [Large-scale chemical language representations capture molecular structure and properties](https://www.nature.com/articles/s42256-022-00580-7) [2022]
+- [ChemBERTa: Large-Scale Self-Supervised Pretraining for Molecular Property Prediction](https://arxiv.org/abs/2010.09885) [2020]
+- [SMILES-BERT: Large Scale Unsupervised Pre-Training for Molecular Property Prediction](https://dl.acm.org/doi/10.1145/3307339.3342186) [2019]
 
 ## Self-Driving Laboratory
 - [Self-Driving Laboratories for Chemistry and Materials Science](https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00055) [2024] - Review
