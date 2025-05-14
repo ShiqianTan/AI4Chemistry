@@ -205,6 +205,9 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 ## Multi-task learning
 - [Boosting Tree-Assisted Multitask Deep Learning for Small Scientific Datasets](https://pubs.acs.org/doi/10.1021/acs.jcim.9b01184) [2020]
 
+## SSL
+- [Evaluating Self-Supervised Learning for Molecular Graph Embeddings](https://openreview.net/forum?id=pyhv4qYCEJ) [2023]- GNN embedding
+
 ## Math reasoning
 - [Benchmarking Large Language Models for Math Reasoning Tasks](https://arxiv.org/abs/2408.10839) [2024] - Benchmark
 
