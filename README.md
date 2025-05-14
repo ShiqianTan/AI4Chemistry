@@ -20,11 +20,13 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 
 ## Review
 - [Cross-disciplinary perspectives on the potential for artificial intelligence across chemistry](https://pubs.rsc.org/en/content/articlelanding/2025/cs/d5cs00146c) [2025]
+- [A Perspective on Foundation Models in Chemistry](https://pubs.acs.org/doi/full/10.1021/jacsau.4c01160) [2025]
 - [A Review of Large Language Models and Autonomous Agents in Chemistry](https://arxiv.org/abs/2407.01603) [2024]
 - [Applications of Transformers in Computational Chemistry: Recent Progress and Prospects](https://pubs.acs.org/doi/10.1021/acs.jpclett.4c03128) [2024] - Transformer
 - [Materials science in the era of large language models: a perspective](https://pubs.rsc.org/en/content/articlelanding/2024/dd/d4dd00074a#fn1) [2024]
 - [Generative Models as an Emerging Paradigm in the Chemical Sciences](https://pubs.acs.org/doi/10.1021/jacs.2c13467) [2023]
 - [A Survey on ensemble learning under the era of deep learning](https://link.springer.com/article/10.1007/s10462-022-10283-5) [2022]
+- [Recent advances and applications of deep learning methods in materials science](https://www.nature.com/articles/s41524-022-00734-6) [2022]
 - [Machine Learning for Molecular Simulation](https://www.annualreviews.org/content/journals/10.1146/annurev-physchem-042018-052331) [2020]
 - [Data Reduction Techniques for Simulation, Visualization and Data Analysis](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.13336) [2018]
 - [Machine learning for molecular and materials science](https://www.nature.com/articles/s41586-018-0337-2) [2018] - Nature
@@ -32,6 +34,10 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 
 ## Dataset
 - [ChemistryQA: A Complex Question Answering Dataset from Chemistry](https://openreview.net/forum?id=oeHTRAehiFF) [2024]
+
+## Benchmark
+- [Benchmarking materials property prediction methods: the Matbench test set and Automatminer reference algorithm](https://www.nature.com/articles/s41524-020-00433-0) [2020]
+
 
 ## Representation learning
 - [Element similarity in high-dimensional materials representations](https://pubs.rsc.org/en/content/articlelanding/2023/dd/d3dd00121k)[2023]
@@ -160,6 +166,10 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 - [Explainable graph neural networks for organic cages](https://pubs.rsc.org/en/content/articlelanding/2022/dd/d1dd00039j) [2022]
 - [Materials Precursor Score: Modeling Chemists’ Intuition for the Synthetic Accessibility of Porous Organic Cage Precursors](https://pubs.acs.org/doi/10.1021/acs.jcim.1c00375) [2021]
 - [Drug discovery with explainable artificial intelligence](https://www.nature.com/articles/s42256-020-00236-4) [2020]
+
+### Finetuning
+- [Leveraging Prompt Engineering in Large Language Models for Accelerating Chemical Research](https://pubs.acs.org/doi/full/10.1021/acscentsci.4c01935) [2025]
+- [Fine-Tuned Language Models Generate Stable Inorganic Materials as Text](https://arxiv.org/abs/2402.04379) [2024]
 
 ### Others
 - [Exploration of crystal chemical space using text-guided generative artificial intelligence](https://chemrxiv.org/engage/chemrxiv/article-details/6728e27cf9980725cf118177) [2024]
