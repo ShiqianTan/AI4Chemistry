@@ -213,6 +213,7 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 - [Boosting Tree-Assisted Multitask Deep Learning for Small Scientific Datasets](https://pubs.acs.org/doi/10.1021/acs.jcim.9b01184) [2020]
 
 ## Multi-Modal
+- [Foundation Model for Material Science](https://ojs.aaai.org/index.php/AAAI/article/view/26793) [2024]
 - [Multi-modal molecule structure–text model for text-based retrieval and editing](https://www.nature.com/articles/s42256-023-00759-6) [2023]
 
 ## SSL
