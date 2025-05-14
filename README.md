@@ -36,8 +36,12 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 
 ## ML model
 ### GNN
+- [Geometrically Equivariant Graph Neural Networks: A Survey](https://arxiv.org/abs/2202.07230) [2022] - Geometrical learning, Survey
 - [A Comprehensive Survey on Graph Neural Networks](https://ieeexplore.ieee.org/document/9046288?utm_source=acs&getft_integrator=acs) [2021] - Survey
+- [E(n) Equivariant Graph Neural Networks]() [2021] - E3NN, pioneering work
 - [Graph Networks as a Universal Machine Learning Framework for Molecules and Crystals](https://pubs.acs.org/doi/10.1021/acs.chemmater.9b01294) [2019] - Review
+- [Tensor field networks: Rotation- and translation-equivariant neural networks for 3D point clouds]() [2018] - Tensor field network, pioneering work
+- [Neural Message Passing for Quantum Chemistry]() [2017] - MPNN, pioneering work
 
 ## Materials
 
