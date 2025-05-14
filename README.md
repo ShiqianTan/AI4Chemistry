@@ -39,10 +39,14 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 ## ML model
 ### GNN
 - [Geometrically Equivariant Graph Neural Networks: A Survey](https://arxiv.org/abs/2202.07230) [2022] - Geometrical learning, Survey
+- [Benchmarking graph neural networks for materials chemistry](https://www.nature.com/articles/s41524-021-00554-0) [2021] - Benchmarking
 - [A Comprehensive Survey on Graph Neural Networks](https://ieeexplore.ieee.org/document/9046288?utm_source=acs&getft_integrator=acs) [2021] - Survey
 - [E(n) Equivariant Graph Neural Networks]() [2021] - E3NN, pioneering work
+- [Atomistic Line Graph Neural Network for improved materials property predictions](https://www.nature.com/articles/s41524-021-00650-1) [2021]
+- [Directional Message Passing for Molecular Graphs](https://arxiv.org/abs/2003.03123) [2020]
 - [Graph Networks as a Universal Machine Learning Framework for Molecules and Crystals](https://pubs.acs.org/doi/10.1021/acs.chemmater.9b01294) [2019] - Review
 - [Tensor field networks: Rotation- and translation-equivariant neural networks for 3D point clouds]() [2018] - Tensor field network, pioneering work
+- [Crystal Graph Convolutional Neural Networks for an Accurate and Interpretable Prediction of Material Properties](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.145301) [2018] - Pinoneering work in solid state materials
 - [Neural Message Passing for Quantum Chemistry]() [2017] - MPNN, pioneering work
 
 ## Materials
