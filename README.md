@@ -24,6 +24,7 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 - [A Survey on ensemble learning under the era of deep learning](https://link.springer.com/article/10.1007/s10462-022-10283-5) [2022]
 - [Machine Learning for Molecular Simulation](https://www.annualreviews.org/content/journals/10.1146/annurev-physchem-042018-052331) [2020]
 - [Data Reduction Techniques for Simulation, Visualization and Data Analysis](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.13336) [2018]
+- [Machine learning for molecular and materials science](https://www.nature.com/articles/s41586-018-0337-2) [2018] - Nature
 - [Materials discovery and design using machine learning](https://www.sciencedirect.com/science/article/pii/S2352847817300515) [2017]
 
 ## Dataset
