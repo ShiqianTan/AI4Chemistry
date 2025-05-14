@@ -205,6 +205,9 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 ## Multi-task learning
 - [Boosting Tree-Assisted Multitask Deep Learning for Small Scientific Datasets](https://pubs.acs.org/doi/10.1021/acs.jcim.9b01184) [2020]
 
+## Multi-Modal
+- [Multi-modal molecule structure–text model for text-based retrieval and editing](https://www.nature.com/articles/s42256-023-00759-6) [2023]
+
 ## SSL
 - [Evaluating Self-Supervised Learning for Molecular Graph Embeddings](https://openreview.net/forum?id=pyhv4qYCEJ) [2023]- GNN embedding
 
