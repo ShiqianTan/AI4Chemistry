@@ -12,6 +12,7 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
   - [Review](#review)
   - [Materials](#materials)
   - [Machine learning Algorithm](#machine-learning-algorithm)
+  - [ML model](#ml-model)
   - [Cheminformatic software](#cheminformatic-software)
 
 ## Machine learning algorithm
@@ -33,6 +34,9 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 ## Representation learning
 - [Element similarity in high-dimensional materials representations](https://pubs.rsc.org/en/content/articlelanding/2023/dd/d3dd00121k)[2023]
 
+## ML model
+### GNN
+- [Graph Networks as a Universal Machine Learning Framework for Molecules and Crystals](https://pubs.acs.org/doi/10.1021/acs.chemmater.9b01294) [2019] - Review
 
 ## Materials
 
