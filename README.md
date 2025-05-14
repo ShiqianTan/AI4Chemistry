@@ -22,6 +22,7 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 - [Cross-disciplinary perspectives on the potential for artificial intelligence across chemistry](https://pubs.rsc.org/en/content/articlelanding/2025/cs/d5cs00146c) [2025]
 - [A Review of Large Language Models and Autonomous Agents in Chemistry](https://arxiv.org/abs/2407.01603) [2024]
 - [Applications of Transformers in Computational Chemistry: Recent Progress and Prospects](https://pubs.acs.org/doi/10.1021/acs.jpclett.4c03128) [2024] - Transformer
+- [Materials science in the era of large language models: a perspective](https://pubs.rsc.org/en/content/articlelanding/2024/dd/d4dd00074a#fn1) [2024]
 - [Generative Models as an Emerging Paradigm in the Chemical Sciences](https://pubs.acs.org/doi/10.1021/jacs.2c13467) [2023]
 - [A Survey on ensemble learning under the era of deep learning](https://link.springer.com/article/10.1007/s10462-022-10283-5) [2022]
 - [Machine Learning for Molecular Simulation](https://www.annualreviews.org/content/journals/10.1146/annurev-physchem-042018-052331) [2020]
