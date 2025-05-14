@@ -181,6 +181,9 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 - [Regression with Large Language Models for Materials and Molecular Property Prediction](https://arxiv.org/abs/2409.06080) [2024]
 - [Large Language Models for Material Property Predictions: elastic constant tensor prediction and materials design](https://arxiv.org/abs/2411.12280) [2024]
 - [BartSmiles: Generative Masked Language Models for Molecular Representations](https://pubs.acs.org/doi/full/10.1021/acs.jcim.4c00512) [2024]
+- [Can large language models understand molecules?](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-024-05847-x) [2024] -Finetuning
+- [Multimodal language and graph learning of adsorption configuration in catalysis](https://www.nature.com/articles/s42256-024-00930-7) [2024] - Finetuning
+- [Catalyst Energy Prediction with CatBERTa: Unveiling Feature Exploration Strategies through Large Language Models](https://pubs.acs.org/doi/10.1021/acscatal.3c04956) [2023] - Finetuning
 - [LLM-Prop: Predicting Physical And Electronic Properties Of Crystalline Solids From Their Text Descriptions](https://arxiv.org/abs/2310.14029) [2023]
 - [Large Language Models as Master Key: Unlocking the Secrets of Materials Science with GPT](https://arxiv.org/abs/2304.02213) [2023]
 - [Catalyst Energy Prediction with CatBERTa: Unveiling Feature Exploration Strategies through Large Language Models](https://pubs.acs.org/doi/10.1021/acscatal.3c04956?ref=PDF) [2023] - CatBERTa
