@@ -36,6 +36,7 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 
 ## ML model
 ### GNN
+- [A Comprehensive Survey on Graph Neural Networks](https://ieeexplore.ieee.org/document/9046288?utm_source=acs&getft_integrator=acs) [2021] - Survey
 - [Graph Networks as a Universal Machine Learning Framework for Molecules and Crystals](https://pubs.acs.org/doi/10.1021/acs.chemmater.9b01294) [2019] - Review
 
 ## Materials
