@@ -78,6 +78,9 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 - [Neural recommender system for the activity coefficient prediction and UNIFAC model extension of ionic liquid-solute systems](https://aiche.onlinelibrary.wiley.com/doi/10.1002/aic.17171) [2021] - 41553 data points, activity coefficient prediction, GNN
 - [Viscosity of Ionic Liquids: An Extensive Database and a New Group Contribution Model Based on a Feed-Forward Artificial Neural Network](https://pubs.acs.org/doi/10.1021/ci500206u?ref=PDF) [2014] - Group contribution method
 
+### Electrolyte
+- [Chemical Foundation Model Guided Design of High Ionic Conductivity Electrolyte Formulations](https://arxiv.org/abs/2503.14878) [2025]
+
 ## Pretraining model
 - [Molecular contrastive learning of representations via graph neural networks](https://www.nature.com/articles/s42256-022-00447-x) [2022] - MolCLR (Molecular Contrastive Learning of Representations via Graph Neural Networks)
 - [Mol-BERT: An Effective Molecular Representation with BERT for Molecular Property Prediction](https://onlinelibrary.wiley.com/doi/10.1155/2021/7181815) [2021] - BERT
