@@ -34,6 +34,7 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 
 ## Representation learning
 - [Element similarity in high-dimensional materials representations](https://pubs.rsc.org/en/content/articlelanding/2023/dd/d3dd00121k)[2023]
+- [A review of molecular representation in the ageof machine learning](https://wires.onlinelibrary.wiley.com/doi/epdf/10.1002/wcms.1603?getft_integrator=acs&src=getftr&utm_source=acs) [2022] - Review
 
 ## ML model
 ### GNN
