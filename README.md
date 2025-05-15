@@ -56,6 +56,17 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 - [Crystal Graph Convolutional Neural Networks for an Accurate and Interpretable Prediction of Material Properties](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.145301) [2018] - Pinoneering work in solid state materials
 - [Neural Message Passing for Quantum Chemistry]() [2017] - MPNN, pioneering work
 
+### 3D geometry/information related
+- [A Diffusion-Based Pre-training Framework for Crystal Property Prediction](https://ojs.aaai.org/index.php/AAAI/article/view/28748) [2024]
+- [Boost Your Crystal Model with Denoising Pre-training](https://openreview.net/forum?id=u2qYzRRg02) [2024]
+- [Self-supervised learning for crystal property prediction via denoising](https://arxiv.org/abs/2408.17255) [2024]
+- [May the force be with you: unified force-centric pre-training for 3D molecular conformations](https://dl.acm.org/doi/10.5555/3666122.3669302) [2023]
+- [Energy-Motivated Equivariant Pretraining for 3D Molecular Graphs](https://ojs.aaai.org/index.php/AAAI/article/view/25978) [2023]
+- [Denoise Pretraining on Nonequilibrium Molecules for Accurate and Transferable Neural Potentials](https://pubs.acs.org/doi/10.1021/acs.jctc.3c00289) [2023]
+- [Pre-training via Denoising for Molecular Property Prediction](https://arxiv.org/abs/2206.00133) [2022]
+- [Molecular Geometry Pretraining with SE(3)-Invariant Denoising Distance Matching](https://arxiv.org/abs/2206.13602) [2022]
+- [The ANI-1ccx and ANI-1x data sets, coupled-cluster and density functional theory properties for molecules](https://www.nature.com/articles/s41597-020-0473-z) [2020]
+
 ## Materials
 
 ### Ionic Liquids
