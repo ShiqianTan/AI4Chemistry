@@ -255,6 +255,7 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 
 ## Challenges
 - [Machine Learning Methods for Small Data Challenges in Molecular Science](https://pubs.acs.org/doi/10.1021/acs.chemrev.3c00189) [2023] - Small dataset
+- [Science-Driven Atomistic Machine Learning](https://onlinelibrary.wiley.com/doi/full/10.1002/anie.202219170) [2023]
 
 ## AI for Materials symposium or conference
 - [AI4Mat-ICLR 2025](https://sites.google.com/view/ai4mat/home) [2025]
