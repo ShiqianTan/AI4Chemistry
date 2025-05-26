@@ -203,6 +203,7 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 - [Practical Bayesian Optimization of Machine Learning Algorithms](https://arxiv.org/abs/1206.2944) [2012]
 
 ## LLM for chemistry or materials
+- [A framework for evaluating the chemical knowledge and reasoning abilities of large language models against the expertise of chemists](https://www.nature.com/articles/s41557-025-01815-x) [2025] - Nature Chemistry
 - [A review of large language models and autonomous agents in chemistry](https://pubs.rsc.org/en/content/articlelanding/2025/sc/d4sc03921a) [2025] - Review
 - [Language models for materials discovery and sustainability: Progress, challenges, and opportunities](https://www.sciencedirect.com/science/article/pii/S0079642525000738?casa_token=ZaRTvWGSDbwAAAAA:jNKD6dL8Gvcw6qlhuqrGKBrMPXN81KS29NJeTvkIIcKkkVtI6BexMuv_XxwHalx3Y3CeKMMjo9-Y) [2025] - Review
 - [34 Examples of LLM Applications in Materials Science and Chemistry: Towards Automation, Assistants, Agents, and Accelerated Scientific Discovery](https://arxiv.org/pdf/2505.03049) [2025]
