@@ -13,6 +13,7 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
   - [Materials](#materials)
   - [Machine learning Algorithm](#machine-learning-algorithm)
   - [ML model](#ml-model)
+  - [Optimization](#optimization)
   - [Cheminformatic software](#cheminformatic-software)
 
 ## Machine learning algorithm
@@ -195,7 +196,8 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 - [Fine-Tuned Language Models Generate Stable Inorganic Materials as Text](https://arxiv.org/abs/2402.04379) [2024]
 - [Molecular Sets (MOSES): A Benchmarking Platform for Molecular Generation Models](https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2020.565644/full) [2020] - Benchmarking
 
-## Bayeysian optimization
+## Optimization
+- [Bayesian Optimization Hackathon for Chemistry and Materials](https://chemrxiv.org/engage/chemrxiv/article-details/684a100a1a8f9bdab5a80a26) [2025] - ChemRxiv
 - [System-Aware Neural ODE Processes for Few-Shot Bayesian Optimization](https://arxiv.org/abs/2406.02352) [2024]
 - [A survey and benchmark of high-dimensional Bayesian optimization of discrete sequences](https://arxiv.org/abs/2406.04739) [2024]
 - [Race to the bottom: Bayesian optimisation for chemical problems](https://pubs.rsc.org/en/content/articlelanding/2024/dd/d3dd00234a) [2024]
